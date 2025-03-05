@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,c,mysql,python,github"></br>
+        <img src="https://skillicons.dev/icons?i=html,css,c,py,mysql,github"></br>
         <img src="https://skillicons.dev/icons?i=ps,pr,ai">
     </a>
 </div>
@@ -21,5 +21,14 @@
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind">
+    </a>
+</div>
+
+<h2 align="center"> 📞Need to contact me </h2>
+<br/>
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,c,py,mysql,github"></br>
+        <img src="https://skillicons.dev/icons?i=ps,pr,ai">
     </a>
 </div>
