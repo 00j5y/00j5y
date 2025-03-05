@@ -1,10 +1,11 @@
 <img src="https://vaultify.shiin.net/u/25noN" alt="Bannière" width="100%">
 
 <h2 align="center"> 💫 About Jay : </h2>
-🥐 French 18 yo dev <br>
+<p align ="center">🥐 French 18 yo dev <br>
 🏫 Student<br>
 🎵 Love Music<br>
 🌱 I create some project to involve my skills
+</p>
 
 <h2 align="center"> 💻 Skills, Tools and Software</h2>
 <br/>
