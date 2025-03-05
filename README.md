@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://cdn.discordapp.com/banners/613123580603138048/a_10031ff4fdebd4a5e8fbde86b4d6012b.gif?size=1024&width=1280&height=0" alt="Bannière" width="100%">
+<img src="https://vaultify.shiin.net/u/25noN" alt="Bannière" width="100%">
 
 <!--
 **00j5y/00j5y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
