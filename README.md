@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind&theme=dark">
+        <img href="https://guns.lol/8yz" src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind&theme=dark">
     </a>
 </div>
 
