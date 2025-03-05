@@ -11,8 +11,8 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,c,py,mysql,github"></br>
-        <img src="https://skillicons.dev/icons?i=ps,pr,ai">
+        <img src="https://skillicons.dev/icons?i=html,css,c,py,mysql,github&theme=dark"></br>
+        <img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark">
     </a>
 </div>
 
@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind">
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind&theme=dark">
     </a>
 </div>
 
@@ -28,6 +28,6 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=discord,twitter,instagram"></br>
+        <img src="https://skillicons.dev/icons?i=discord,twitter,instagram&theme=dark"></br>
     </a>
 </div>
