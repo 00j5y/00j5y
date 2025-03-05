@@ -28,6 +28,12 @@
 <br/>
 <div align="center">
     <a href="https://guns.lol/8yz">
-        <img src="https://skillicons.dev/icons?i=discord,twitter,instagram&theme=dark"></br>
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark">
+    </a>
+    <a href="https://guns.lol/8yz">
+        <img src="https://skillicons.dev/icons?i=twitter&theme=dark">
+    </a>
+    <a href="https://guns.lol/8yz">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark">
     </a>
 </div>
