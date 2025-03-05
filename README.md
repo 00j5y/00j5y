@@ -10,7 +10,7 @@
 <h2 align="center"> 💻 Skills, Tools and Software</h2>
 <br/>
 <div align="center">
-    <a href="https://skillicons.dev">
+    <a>
         <img src="https://skillicons.dev/icons?i=html,css,c,py,mysql,github&theme=dark"></br>
         <img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark">
     </a>
@@ -19,15 +19,15 @@
 <h2 align="center"> ⚡Learning </h2>
 <br/>
 <div align="center">
-    <a href="https://skillicons.dev">
-        <img href="https://guns.lol/8yz" src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind&theme=dark">
+    <a>
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind&theme=dark">
     </a>
 </div>
 
 <h2 align="center"> 📞Need to contact me </h2>
 <br/>
 <div align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://guns.lol/8yz">
         <img src="https://skillicons.dev/icons?i=discord,twitter,instagram&theme=dark"></br>
     </a>
 </div>
