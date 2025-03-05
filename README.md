@@ -20,6 +20,6 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript">
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind">
     </a>
 </div>
