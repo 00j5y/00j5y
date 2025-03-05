@@ -3,7 +3,7 @@
 <h2 align="center"> 💫 About Jay : </h2>
 <p align ="center">🥐 French 18 yo dev <br>
 🏫 Student<br>
-🎵 Love Music<br>
+🎵 Music<br>
 🌱 I create some project to involve my skills
 </p>
 
