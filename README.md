@@ -10,7 +10,7 @@
         🌱 I create some project to involve my skills
         </p>
     </div>
-    <div style="flex: 1; text-align: right;">
+    <div style="flex: 2;">
         <a href="https://discord.com/users/613123580603138048">
             <img width="425" src="https://lanyard.cnrad.dev/api/613123580603138048">
         </a>
