@@ -1,46 +1,40 @@
-<img src="https://vaultify.shiin.net/u/25noN" alt="Bannière" width="100%">
+<img src="https://vaultify.shiin.net/u/25noN" alt="Bannère" width="100%">
 
-<h2 align="center"> 💫 About Jay : </h2>
-<div>
-    <div align="right">
-        <a href="https://discord.com/users/613123580603138048">
-            <img align="right" width="425" src="https://lanyard.cnrad.dev/api/613123580603138048">
-        </a>
-    </div>
-    <div align="left">
-        <br><br>
-        <p>🥐 French 18 yo dev <br>
-        🏫 Student<br>
-        🎵 Music<br>
-        🌱 I create some project to involve my skills<br>
-        🔧 Currently working on : Discord Private Bot
-        </p>
-    </div>
-</div>
-<br><br>
+<h2 align="center"> 🌫 About Jay : </h2>
 
-<!-- Déplacement de la section Skills sous l'image Lanyard -->
+<a href="https://discord.com/users/613123580603138048">
+    <img align="right" width="425" src="https://lanyard.cnrad.dev/api/613123580603138048">
+</a>
+<br>
+
+```json
+{
+    "⏳ age": 18,
+    "🏫 status": "Student",
+    "🏴 hobby": "Music and Dev",
+    "🔧 currently working on": "Discord Private Bot"
+}
+```
+
+<br>
+
 <h2 align="center"> 💻 Skills, Tools and Software</h2>
-<br/>
-<div align="center">
-    <a>
-        <img src="https://skillicons.dev/icons?i=html,css,c,py,mysql,github&theme=dark"></br>
-        <img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark">
-    </a>
-</div>
 
-<h2 align="center"> ⚡Learning </h2>
-<br/>
-<div align="center">
-    <a>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind&theme=dark">
-    </a>
-</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,c,py,mysql,github&theme=dark"><br>
+    <img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark">
+</p>
 
-<h2 align="center"> 📞Need to contact me </h2>
-<br/>
-<div align="center">
+<h2 align="center"> ⚡ Learning </h2>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind&theme=dark">
+</p>
+
+<h2 align="center"> 📞 Need to contact me </h2>
+
+<p align="center">
     <a href="https://guns.lol/8yz">
-        <img src="https://skillicons.dev/icons?i=discord,twitter,instagram&theme=dark"></br>
+        <img src="https://skillicons.dev/icons?i=discord,twitter,instagram&theme=dark">
     </a>
-</div>
+</p>
