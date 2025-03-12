@@ -5,14 +5,14 @@
 <a href="https://discord.com/users/613123580603138048">
     <img align="right" width="425" src="https://lanyard.cnrad.dev/api/613123580603138048">
 </a>
-<br>
+<br><br>
 
 ```json
 {
     "⏳ age": 18,
     "🏫 status": "Student",
     "🏴 hobby": "Music and Dev",
-    "🔧 currently working on": "Discord Private Bot"
+    "🔧 currently working on": "Discord Private Bot",
 }
 ```
 
