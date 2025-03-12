@@ -3,9 +3,9 @@
 <h2 align="center"> 🌫 About Jay : </h2>
 
 <a href="https://discord.com/users/613123580603138048">
-    <img align="right" width="425" src="https://lanyard.cnrad.dev/api/613123580603138048">
+    <img align="right" width="425" src="https://lanyard.kyrie25.dev/api//613123580603138048?theme=dark&?showBanner=animated&waveColor=transparent">
 </a>
-<br><br>
+<br>
 
 ```json
 {
