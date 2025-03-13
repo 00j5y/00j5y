@@ -1,4 +1,4 @@
-<img src="https://vaultify.shiin.net/u/25noN" alt="Bannère" width="100%">
+<img src="streetready.png" alt="Bannère" width="100%">
 
 <h2 align="center"> 🌫 About Jay : </h2>
 
