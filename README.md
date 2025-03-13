@@ -12,7 +12,7 @@
     "⏳ age": 18,
     "🏫 status": "Student",
     "🏴 hobby": "Music and Dev",
-    "🔧 currently working on": "Discord Private Bot",
+    "🔧 currently working on": "Web Portfolio",
 }
 ```
 
