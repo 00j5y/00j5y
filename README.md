@@ -1,4 +1,4 @@
-<img src="streetready.png" alt="Bannère" width="100%">
+<img src="https://imgur.com/f7v9zug.png" alt="Bannère" width="100%">
 
 <h2 align="center"> 🌫 About Jay : </h2>
 
