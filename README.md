@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Bannère" width="100%">
+<img src="banner.gif" alt="Bannère" width="100%">
 
 <h2 align="center"> 🌫 About Jay : </h2>
 
