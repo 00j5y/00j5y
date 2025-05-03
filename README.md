@@ -28,7 +28,7 @@
 <h2 align="center"> ⚡ Learning </h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript&theme=dark">
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb&theme=dark">
 </p>
 
 <h2 align="center"> 📞 Need to contact me </h2>
