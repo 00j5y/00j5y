@@ -31,6 +31,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb&theme=dark">
 </p>
 
+[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00j5y&theme=github-compact&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h2 align="center"> 📞 Need to contact me </h2>
 
 <p align="center">
