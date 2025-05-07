@@ -41,6 +41,6 @@
     </a>
 </p>
 
-<h2 align="center"> 🤓 My Contribution Graph </h2>
+---
 
-[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00j5y&theme=github-compact&custom_title=%20&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00j5y&theme=github-compact&custom_title=%20My%20Contribution%20Graph&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
