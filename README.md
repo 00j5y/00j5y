@@ -23,7 +23,7 @@
 <h2 align="center"> 💻 Skills, Tools and Software</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,c,py,mysql,github&theme=dark"><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp,py,mysql,github&theme=dark"><br>
     <img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark">
 </p>
 
