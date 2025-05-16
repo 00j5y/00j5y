@@ -3,7 +3,7 @@
 <h2 align="center"> 🌫 About Jay : </h2>
 
 <a href="https://discord.com/users/613123580603138048">
-    <img align="right" width="425" src="https://lanyard.kyrie25.dev/api/613123580603138048?bg=151B23&waveColor=000000&borderRadius=5px&theme=dark&showDisplayName=false&animatedDecoration=true&hideSpotify=false)">
+    <img align="right" width="425" src="https://lanyard.kyrie25.dev/api/613123580603138048?animatedDecoration=true&animated=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideActivity=false&showDisplayName=false&hideDecoration=false&hideClan=false&theme=dark&waveColor=b6888c&gradient=b6888c">
 </a>
 
 ```json
