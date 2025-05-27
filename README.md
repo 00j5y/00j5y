@@ -10,7 +10,7 @@
 {
     "⏳ age": 18,
     "🏫 status": "Student",
-    "🏴 hobby": "Music and Dev",
+    "🏴 hobby": "Music, Gym and Dev",
     "🔧 currently working on": {
         "1️⃣": "Discord Private Bot"
         "2️⃣": "Spotify Local File Manager"                 
