@@ -13,7 +13,7 @@
     "🏴 hobby": "Music, Gym and Dev",
     "🔧 currently working on": {
         "1️⃣": "Discord Private Bot"
-        "2️⃣": "Spotify Local File Manager"                 
+        "2️⃣": "Web panel for my Discord Bot"               
     },
 }
 ```
