@@ -1,4 +1,4 @@
-<img src="banner4.jpg" alt="Bannière" width="100%">
+<img src="banner5.gif" alt="Bannière" width="100%">
 
 <h2 align="center"> 🌫 About Jay : </h2>
 
@@ -10,10 +10,10 @@
 {
     "⏳ age": 18,
     "🏫 status": "Student",
-    "🏴 hobby": "Music, Gym and Dev",
+    "🏴 hobby": "Music, Gym and Anime",
     "🔧 currently working on": {
         "1️⃣": "Discord Private Bot"
-        "2️⃣": "Web panel for my Discord Bot"               
+        "2️⃣": "Discord Voice Manager Bot"               
     },
 }
 ```
@@ -42,5 +42,3 @@
 </p>
 
 ---
-
-[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00j5y&theme=github-compact&custom_title=%20My%20Contribution%20Graph&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
