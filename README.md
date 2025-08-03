@@ -1,6 +1,6 @@
 <img src="banner5.gif" alt="Bannière" width="100%">
 
-<h2 align="center"> 🌫 About Jay : </h2>
+<h2 align="left"> ⁉️ About Jay : </h2>
 
 <a href="https://discord.com/users/613123580603138048">
     <img align="right" width="425" src="https://lanyard.kyrie25.dev/api/613123580603138048?animatedDecoration=true&animated=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideActivity=false&showDisplayName=false&hideDecoration=false&hideClan=false&theme=dark&waveColor=b6888c&gradient=b6888c">
@@ -20,25 +20,9 @@
 
 <br>
 
-<h2 align="center"> 💻 Skills, Tools and Software</h2>
+<h2 align="left"> 💻 Progamming skills</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp,py,mysql,github&theme=dark"><br>
-    <img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp,py,mysql&theme=dark"><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,js&theme=dark">
 </p>
-
-<h2 align="center"> ⚡ Learning </h2>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb&theme=dark">
-</p>
-
-<h2 align="center"> 📞 Need to contact me </h2>
-
-<p align="center">
-    <a href="https://guns.lol/8yz">
-        <img src="https://skillicons.dev/icons?i=discord,twitter,instagram&theme=dark">
-    </a>
-</p>
-
----
