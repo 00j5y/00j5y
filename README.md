@@ -1,10 +1,11 @@
-<img src="banner5.gif" alt="Bannière" width="100%">
+<img src="banner6.gif" alt="Bannière" width="100%">
 
 <h2 align="left"> ⁉️ About Jay : </h2>
 
 <a href="https://discord.com/users/613123580603138048">
     <img align="right" width="425" src="https://lanyard.kyrie25.dev/api/613123580603138048?animatedDecoration=true&animated=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideActivity=false&showDisplayName=false&hideDecoration=false&hideClan=false&theme=dark&waveColor=b6888c&gradient=b6888c">
 </a>
+</br>
 
 ```json
 {
@@ -12,8 +13,8 @@
     "🏫 status": "Student",
     "🏴 hobby": "Music, Gym and Anime",
     "🔧 currently working on": {
-        "1️⃣": "Discord Private Bot"
-        "2️⃣": "Discord Voice Manager Bot"               
+        "1️⃣": "Discord Voice Manager Bot"
+        "2️⃣": "Bio Link Website"         
     },
 }
 ```
