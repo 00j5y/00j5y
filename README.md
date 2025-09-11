@@ -1,5 +1,3 @@
-<img src=".gif" alt="Bannière" width="100%">
-
 <h2 align="left"> ⁉️ About Jay : </h2>
 
 <a href="https://discord.com/users/613123580603138048">
