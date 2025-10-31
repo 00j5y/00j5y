@@ -11,8 +11,8 @@
     "🏫 status": "Student",
     "🏴 hobby": "Music, Gym and Anime",
     "🔧 currently working on": {
-        "1️⃣": "Discord Voice Manager Bot"
-        "2️⃣": "Bio Link Website"         
+        "1️⃣": "cobalt.tools Dupe"
+        "2️⃣": "Discord Voice Manager Bot"         
     },
 }
 ```
