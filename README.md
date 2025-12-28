@@ -24,6 +24,6 @@
 <h2 align="left"> 💻 Progamming skills</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,cpp,py,mysql&theme=dark"><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,js&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,c,py,mysql&theme=dark"><br>
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,bun&theme=dark">
 </p>
