@@ -9,7 +9,7 @@
 
 ```json
 {
-    "⏳ age": 18,
+    "⏳ age": 19,
     "🏫 status": "Student",
     "🏴 hobby": "Music, Gym and Anime",
     "🔧 currently working on": {
