@@ -13,8 +13,7 @@
     "🏫 status": "Student",
     "🏴 hobby": "Music, Gym and Anime",
     "🔧 currently working on": {
-        "1️⃣": "cobalt.tools Dupe"
-        "2️⃣": "Discord Voice Manager Bot"         
+        "1️⃣": "Discord AIO bot"         
     },
 }
 ```
@@ -24,6 +23,5 @@
 <h2 align="left"> 💻 Progamming skills</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,c,py,mysql&theme=dark"><br>
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,bun&theme=dark">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,c,nodejs,py,mysql,supabase,bun&theme=dark"><br>
 </p>
