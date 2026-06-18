@@ -1,4 +1,4 @@
-<img src="banner.jpg">
+<img src="banner.gif">
 
 <h2 align="left"> ⁉️ About Jay : </h2>
 
